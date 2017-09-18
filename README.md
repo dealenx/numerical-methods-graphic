@@ -6,9 +6,8 @@
      src="https://pp.userapi.com/c638918/v638918248/61dd1/58BJg9xBosY.jpg">
 
 
-### Use Future CSS, Today
+### Структура
 
-* [`autoprefixer`] adds vendor prefixes, using data from Can I Use.
-* [`postcss-cssnext`] allows you to use future CSS features today
-  (includes `autoprefixer`).
-* [`postcss-image-set-polyfill`] emulates [`image-set`] function logic for all browsers
+* main.cpp - файл с кодом
+* index.html  - веб-страница, где будет выводиться график
+* data.json - файл с данными, при запуске программы загружает все вычисленные данные, на веб-странице эти данные отображаются
