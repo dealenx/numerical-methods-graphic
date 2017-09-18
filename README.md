@@ -1,7 +1,7 @@
 # numerical-methods-graphic
 Проект для визуализации данных по численным методам
 
-<img align="right" width="95" height="95"
+<img align="right" width="1052" height="535"
      alt=""
      src="https://pp.userapi.com/c638918/v638918248/61dd1/58BJg9xBosY.jpg">
 
